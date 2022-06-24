@@ -21,4 +21,4 @@ button10.addEventListener('click', () => {
   button20.addEventListener('click', () => {
     disp.textContent = "added 20"
     indicator.textContent = (parseInt(indicator.textContent) + 20).toString()
-  })
+  }) 
